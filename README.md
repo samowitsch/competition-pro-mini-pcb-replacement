@@ -33,6 +33,11 @@
 
 #### DIY © by CapFuture1975 v1.1
 
+Links:
+* https://www.forum64.de/index.php?thread/27322-competition-pro-mini-reparieren
+* https://www.youtube.com/watch?v=5R7JxHTaWB4
+* https://www.youtube.com/watch?v=qA27yQcbWV8
+
 | Top                                           | Bottom                                        |
 | :-------------------------------------------- | :-------------------------------------------- |
 | <img src="images/IMG_3748.JPG" width="450" /> | <img src="images/IMG_3747.JPG" width="450" /> |
