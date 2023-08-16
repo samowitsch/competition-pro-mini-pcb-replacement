@@ -8,7 +8,7 @@
       - [CK-014 Rev B (Dynamics Marketing)](#ck-014-rev-b-dynamics-marketing)
       - [CK-017 Rev B with autofire (Dynamics Marketing)](#ck-017-rev-b-with-autofire-dynamics-marketing)
       - [DIY © by CapFuture1975 v1.1](#diy--by-capfuture1975-v11)
-      - [DIY © by CapFuture1975 v1.1 with autofire](#diy--by-capfuture1975-v11-with-autofire)
+      - [DIY © by CapFuture1975 v1.3 with autofire](#diy--by-capfuture1975-v13-with-autofire)
 
 <!-- /TOC -->
 
@@ -43,7 +43,7 @@ Links:
 | :-------------------------------------------- | :-------------------------------------------- |
 | <img src="resources/forum64/capfuture1975-cpm-top-300dpi.jpg" width="450" /> | <img src="resources/forum64/capfuture1975-cpm-bottom-300dpi.jpg" width="450" /> |
 
-#### DIY © by CapFuture1975 v1.1 with autofire
+#### DIY © by CapFuture1975 v1.3 with autofire
 
 | Top                                           | Bottom                                        |
 | :-------------------------------------------- | :-------------------------------------------- |
