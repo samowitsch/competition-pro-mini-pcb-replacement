@@ -9,6 +9,8 @@
       - [CK-017 Rev B with autofire (Dynamics Marketing)](#ck-017-rev-b-with-autofire-dynamics-marketing)
       - [DIY © by CapFuture1975 v1.1](#diy--by-capfuture1975-v11)
       - [DIY © by CapFuture1975 v1.3 with autofire](#diy--by-capfuture1975-v13-with-autofire)
+  - [Parts](#parts)
+    - [Switch\_Omron\_D2FS-F-N-A1](#switch_omron_d2fs-f-n-a1)
 
 <!-- /TOC -->
 
@@ -16,7 +18,8 @@
 
 ### Current state
 
-> ⚠️ Current start repository. Work in progess. Just a collection repo at the moment. The respective creators own the copyright!
+> ⚠️ Current start repository. Work in progess. Just a collection repo at the moment. Maybe forever ;o)  
+> ⚠️ **The respective creators own the copyright!**
 
 ### PCB pictures
 
@@ -34,6 +37,8 @@
 
 #### DIY © by CapFuture1975 v1.1
 
+[Aufbauanleitung v1.1](resources/forum64/Competition_Pro_Mini_Ersatzplatine_Aufbauanleitung-s.pdf)
+
 Links:
 * https://www.forum64.de/index.php?thread/27322-competition-pro-mini-reparieren
 * https://www.youtube.com/watch?v=5R7JxHTaWB4
@@ -45,6 +50,14 @@ Links:
 
 #### DIY © by CapFuture1975 v1.3 with autofire
 
+[Aufbauanleitung v1.3](resources/forum64/Competition_Pro_Mini_mit_Dauerfeuer_Ersatzplatine_Aufbauanleitung-s.pdf)
+
 | Top                                           | Bottom                                        |
 | :-------------------------------------------- | :-------------------------------------------- |
 | <img src="resources/forum64/capfuture1975-cpm-autofire-top-300dpi.jpg" width="450" /> | <img src="resources/forum64/capfuture1975-cpm-autofire-bottom-300dpi.jpg" width="450" /> |
+
+## Parts
+
+### Switch_Omron_D2FS-F-N-A1
+
+* [Omrom-D2FS-F-N-A1 tech specs](resources/omron-switch/en-d2fs.pdf)
